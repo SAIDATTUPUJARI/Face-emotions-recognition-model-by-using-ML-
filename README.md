@@ -1,2 +1,2 @@
-# Real Time Face Emotion Detection Application 😠🤮😨😀😐😔😮
- Real Time Face Emotion Detection Application 😠🤮😨😀😐😔😮
+#Face-emotions-recognition-model-by-using-ML-
+It is model build by using ML which is recognize the real time face emotions. 
